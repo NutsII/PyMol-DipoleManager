@@ -8,19 +8,19 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////</b>
 
-<br><i>[██▒▒▒▒▒▒▒▒][20% ][PHASE 1 - INNER WORKINGS]</i>
+<br><i>[██▒▒▒▒▒▒▒▒][20.00 %][PHASE 1 - INNER WORKINGS]</i>
 
 
-<br>[██████████] [100%**] FIND ONE PYMOL PLUGIN TO BASE ON (GYRATION TENSOR)
-<br>[█▒▒▒▒▒▒▒▒▒] [0%*****] BUILD THE FUNCTION TO OPEN THE MOL2 EXTENSION
-<br>[▒▒▒▒▒▒▒▒▒▒] [0%*****] BUILD THE FUNCTION TO GET THE MOL2 DIPOLE VALUES
-<br>[▒▒▒▒▒▒▒▒▒▒] [0%*****] BUILD THE FUNCTION TO PLOT THE MOLECULE
-<br>[▒▒▒▒▒▒▒▒▒▒] [0%*****] BUILD THE FUNCTION TO FIND THE GEOMETRIC CENTER OF THE DIPOLE
-<br>[█████████▒] [90%****] BUILD THE FUNCTION TO CALCULATE DE DIPOLE VECTORS
-<br>[▒▒▒▒▒▒▒▒▒▒] [0%*****] BUILD THE FUNCTION TO PLOT THE G.C. OF THE MOLECULE 
-<br>[▒▒▒▒▒▒▒▒▒▒] [0%*****] BUILD THE FUNCTION TO PLOT 3 VECTORS
-<br>[▒▒▒▒▒▒▒▒▒▒] [0%*****] BUILD THE FUNCTION TO PLOT RESULTANT VECTOR
-<br>[▒▒▒▒▒▒▒▒▒▒] [0%*****] MAKE IT WORK FROM WITHIN PYMOL
+<br>[██████████] [100.0 %] FIND ONE PYMOL PLUGIN TO BASE ON (GYRATION TENSOR)
+<br>[█▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO OPEN THE MOL2 EXTENSION
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO GET THE MOL2 DIPOLE VALUES
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO PLOT THE MOLECULE
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO FIND THE GEOMETRIC CENTER OF THE DIPOLE
+<br>[█████████▒] [90.00 %] BUILD THE FUNCTION TO CALCULATE DE DIPOLE VECTORS
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO PLOT THE G.C. OF THE MOLECULE 
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO PLOT 3 VECTORS
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO PLOT RESULTANT VECTOR
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] MAKE IT WORK FROM WITHIN PYMOL
  
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
