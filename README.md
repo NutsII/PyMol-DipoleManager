@@ -28,7 +28,7 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 
 
 [----------][0%  ] CREATE EXTERNAL GUI FROM PYMOL
-[----------][0%  ] DISCOVER HOW TO CLOSE THE GUI
+[----------][0%  ] DISCOVER HOW TO CLOSE THE IT
 [----------][0%  ] DEFINE GUI BASIC STRUCTURE ON PAPER
 [----------][0%  ] DISCOVER HOW TO DEPLOY N INPUT FIELDS
 [----------][0%  ] CREATE ALL INPUT FIELDS
