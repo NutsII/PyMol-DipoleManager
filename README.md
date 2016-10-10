@@ -4,23 +4,23 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-[█▒▒▒▒▒▒▒▒▒][10.00% ] [DIPOLE MANAGER ROADMAP]
+[█▒▒▒▒▒▒▒▒▒][10.00% ] <b>[DIPOLE MANAGER ROADMAP]</b>
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 <br>[██▒▒▒▒▒▒▒▒][20.00 %] <b>[PHASE 1 - INNER WORKINGS]</b>
 
-<br>[██████████] [100.0 %] FIND ONE PYMOL PLUGIN TO BASE ON (GYRATION TENSOR)
-<br>[█▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO OPEN THE MOL2 EXTENSION
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO GET THE MOL2 DIPOLE VALUES
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO PLOT THE MOLECULE
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO FIND THE GEOMETRIC CENTER OF THE DIPOLE
-<br>[█████████▒] [90.00 %] BUILD THE FUNCTION TO CALCULATE DE DIPOLE VECTORS
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO PLOT THE G.C. OF THE MOLECULE 
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO PLOT 3 VECTORS
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BUILD THE FUNCTION TO PLOT RESULTANT VECTOR
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] MAKE IT WORK FROM WITHIN PYMOL
- 
+<br>[██████████] [100.0 %] Find One Pymol Plugin to Base on (Gyration Tensor)
+<br>[█▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Open the Mol2 Extension
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Get the Mol2 Dipole Values
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Plot the Molecule
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Find the Geometric Center of the Dipole
+<br>[█████████▒] [90.00 %] Build the Function to Calculate De Dipole Vectors
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Plot the G.c. Of the Molecule 
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Plot 3 Vectors
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Plot Resultant Vector
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Make It Work From Within Pymol
+
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] <b>[PHASE 2 - GUI BUILDING]</b>
