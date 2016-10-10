@@ -7,7 +7,6 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 [█▒▒▒▒▒▒▒▒▒][10.00% ] <b>[DIPOLE MANAGER ROADMAP]</b>
 
 ***********************************************
-
 <br>[██▒▒▒▒▒▒▒▒][20.00 %] <b>[PHASE 1 - INNER WORKINGS]</b>
 
 <br>[██████████] [100.0 %] Find One Pymol Plugin to Base on (Gyration Tensor)
@@ -20,9 +19,7 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Plot 3 Vectors
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Plot Resultant Vector
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Make It Work From Within Pymol
-
 ***********************************************
-
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] <b>[PHASE 2 - GUI BUILDING]</b>
 
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Create External Gui From Pymol
@@ -35,6 +32,7 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Save Mol2 From Input Fields
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Plot New Dipole Calculations
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Refresh New Dipole Calculations 
+
 
 ***********************************************
 
