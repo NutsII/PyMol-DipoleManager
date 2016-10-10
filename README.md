@@ -10,7 +10,7 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 <br>[██▒▒▒▒▒▒▒▒][20.00 %] <b>[PHASE 1 - INNER WORKINGS]</b>
 
 <br>[██████████] [100.0 %] Find One Pymol Plugin to Base on (Gyration Tensor)
-<br>[█▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Open the Mol2 Extension
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] ► Build the Function to Open the Mol2 Extension ◄
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Get the Mol2 Dipole Values
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Plot the Molecule
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Build the Function to Find the Geometric Center of the Dipole
