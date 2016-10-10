@@ -36,7 +36,6 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Plot New Dipole Calculations
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Refresh New Dipole Calculations 
 
-
 ***********************************************
 
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] <b>[PHASE 3 - BETA TESTING]</b>
