@@ -2,12 +2,11 @@
 
 PyMol Plugin for dipole calculation and managing using .mol2 files.
 
-////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 <b>[█▒▒▒▒▒▒▒▒▒][10% ][DIPOLE MANAGER ROADMAP]</b>
 
-////////////////////////////////////////////////////////////////////////////////////////////////
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 <br><i>[##--------][20% ][PHASE 1 - INNER WORKINGS]</i>
 
 
@@ -17,7 +16,7 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 <br>[▒▒▒▒▒▒▒▒▒▒][0%  ] BUILD THE FUNCTION TO PLOT THE MOLECULE
 <br>[▒▒▒▒▒▒▒▒▒▒][0%  ] BUILD THE FUNCTION TO FIND THE GEOMETRIC CENTER OF THE DIPOLE
 <br>[█████████▒][90% ] BUILD THE FUNCTION TO CALCULATE DE DIPOLE VECTORS
-<br>[▒▒▒▒▒▒▒▒▒▒][0%  ] BUILD THE FUNCTION TO PLOT THE GEOMETRIC CENTER OF THE MOLECULE ON THE PYMOL
+<br>[▒▒▒▒▒▒▒▒▒▒][0%  ] BUILD THE FUNCTION TO PLOT THE G.C. OF THE MOLECULE 
 <br>[▒▒▒▒▒▒▒▒▒▒][0%  ] BUILD THE FUNCTION TO PLOT 3 VECTORS
 <br>[▒▒▒▒▒▒▒▒▒▒][0%  ] BUILD THE FUNCTION TO PLOT RESULTANT VECTOR
 <br>[▒▒▒▒▒▒▒▒▒▒][0%  ] MAKE IT WORK FROM WITHIN PYMOL
