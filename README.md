@@ -25,17 +25,16 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 
 <br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] <b>[PHASE 2 - GUI BUILDING]</b>
 
-
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] CREATE EXTERNAL GUI FROM PYMOL
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] DISCOVER HOW TO CLOSE THE IT
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] DEFINE GUI BASIC STRUCTURE ON PAPER
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] DISCOVER HOW TO DEPLOY N INPUT FIELDS
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] CREATE ALL INPUT FIELDS
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] CREATE ALL BUTTONS
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] BIND INPUT FIELDS TO LIST VALUES
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] SAVE MOL2 FROM INPUT FIELDS
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] PLOT NEW DIPOLE CALCULATIONS
-<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] REFRESH NEW DIPOLE CALCULATIONS 
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Create External Gui From Pymol
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Discover How to Close the It
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Define Gui Basic Structure on Paper
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Discover How to Deploy N Input Fields
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Create All Input Fields
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Create All Buttons
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Bind Input Fields to List Values
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Save Mol2 From Input Fields
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Plot New Dipole Calculations
+<br>[▒▒▒▒▒▒▒▒▒▒] [00.00 %] Refresh New Dipole Calculations 
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
