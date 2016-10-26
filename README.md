@@ -4,6 +4,10 @@ PyMol Plugin for dipole calculation and managing using .mol2 files.
 
 ***********************************************
 
+<br>Current Release: <b>DipoleManager-v0.13.py</b>
+
+***********************************************
+
 [███▒▒▒▒▒▒▒][30.00% ] <b>[DIPOLE MANAGER ROADMAP]</b>
 
 ***********************************************
